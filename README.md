@@ -1,6 +1,7 @@
-Task-2 Automating Services With Terraform-II
+# Task-2 Automating Services With Terraform-II
 
-This is the first task given by Vimal Daga sir under Hybrid Multi Cloud Training of creating a complete automated architecture consisting of AWS Instances, AWS Storage(EBS and S3) through terraform. Architecture:
+This is the first task given by Vimal Daga sir under Hybrid Multi Cloud Training of creating a complete automated architecture consisting of AWS Instances, AWS Storage(EBS and S3) through terraform. 
+Architecture:
 
 ![Untitled Diagram(6)](https://user-images.githubusercontent.com/48363834/87753477-55aaff80-c820-11ea-8c2c-12953119274d.png)
 
